@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-europian-tourists.herokuapp.com/) here
 1. Git Clone
 
 ```
-git clone https://github.com/KendallDiamond/Self-development.git
+
 ```
 
 2. Backend setting
